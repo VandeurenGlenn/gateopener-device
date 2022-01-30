@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "firebase-rrda-device": "^1.1.4"
+    "firebase-rrda-device": "^1.2.0"
   }
 }
